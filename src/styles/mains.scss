@@ -15,7 +15,7 @@
 @import "./footer.scss";
 
 * {
-  font-family: "Montserrat";
+  font-family: "Noto Sans CJK KR";
 }
 
 body {
@@ -43,7 +43,7 @@ body {
 .primary-btn {
   margin: 10px;
   padding: 10px;
-  background-color: black;
+  background-color: blue;
   color: white;
   border: 0px;
   transition: all 0.2s ease-in-out;
